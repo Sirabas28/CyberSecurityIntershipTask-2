@@ -1,67 +1,65 @@
-Task 2: Operating System Security Checklist – Kali Linux 🔐🐧
-Overview 📘
+🚀 Task 2: Operating System Security Checklist – Kali Linux 🐧🔐
+🔍 Overview
 
 This task focuses on understanding operating system security fundamentals using Kali Linux. The goal was to apply practical security controls to reduce the operating system attack surface.
 
-Environment 🖥️
+🖥️ Environment
 
-Operating System: Kali Linux
+🐧 Operating System: Kali Linux
 
-User Type: Standard user with sudo privileges
+👤 User Type: Standard user with sudo privileges
 
-Firewall: UFW (Uncomplicated Firewall)
+🔥 Firewall: UFW (Uncomplicated Firewall)
 
-What I Did 🛠️
+🛠️ What I Did
 
-Verified user accounts and privilege levels
+👤 Verified user accounts and privilege levels
 
-Explored file permissions and ownership
+📂 Explored file permissions and ownership
 
-Identified running processes and active services
+⚙️ Identified running processes and active services
 
-Disabled unnecessary services to reduce attack surface
+✂️ Disabled unnecessary services to reduce attack surface
 
-Enabled and configured firewall rules using UFW
+🔥 Enabled and configured firewall rules using UFW
 
-Reviewed authentication logs
+📜 Reviewed authentication logs
 
-Documented OS hardening best practices
+🛡️ Documented OS hardening best practices
 
-Commands Used 💻
+💻 Commands Used
 
-whoami
+ whoami
 
-id
+ id
 
-ls -l
+ ls -l
 
-chmod
+ chmod
 
-chown
+ chown
 
-ps aux
+ ps aux
 
-systemctl
+ systemctl
 
-ufw
+ ufw
 
-cat /var/log/auth.log
+ cat /var/log/auth.log
 
-Deliverables 📂
+ Deliverables
 
-OS_Security_Checklist_Task2_Kali.pdf
+ OS_Security_Checklist_Task2_Kali.pdf
 
-Screenshots (optional)
-
-Outcome 🎯
+🎯 Outcome
 
 This task provided hands-on experience in securing a Linux operating system and understanding how OS-level misconfigurations can increase security risks.
 
 👤 Author
-[A.SABARIS]
-Cybersecurity Intern 👨‍💻🔐
+[A.SABARIS] 👨‍💻🔐
+Cybersecurity Intern
 
 📅 Task Information
-Internship: Cybersecurity
-Task: Operating System Security Checklist – Kali Linux
-Task Number: 2 ✅
+🧠 Internship: Cybersecurity
+🛡️ Task: Operating System Security Checklist – Kali Linux
+🔢 Task Number: 2
