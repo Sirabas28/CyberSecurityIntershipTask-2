@@ -1,4 +1,4 @@
-# Operating System Security Checklist – Kali Linux
+## Operating System Security Fundamentals (Linux & Windows)
 Internship Task 2
 
 ## Overview
@@ -118,7 +118,11 @@ Operating system security is a critical foundation of cybersecurity. By applying
 OS_Security_Checklist_Task2_Kali.pdf
 
 ---
-
-## Author
-Your Name  
+👤 Author
+[A.SABARIS]
 Cybersecurity Intern
+
+📅 Task Information
+Internship: Cybersecurity
+Task: Operating System Security Fundamentals (Linux & Windows)
+Task Number: 2
