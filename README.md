@@ -60,6 +60,9 @@ This task provided hands-on experience in securing a Linux operating system and 
 Cybersecurity Intern
 
 📅 Task Information
+
 🧠 Internship: Cybersecurity
+
 🛡️ Task: Operating System Security Checklist – Kali Linux
+
 🔢 Task Number: 2
